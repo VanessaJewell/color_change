@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin:0;
+}
+.quiz {
+  border:solid 1px;
+  max-width:600px;
+  height:500px;
+  text-align:center;
+  position:fixed;
+  top:50%;
+  left:50%;
+  transform:translate(-50%, -50%);
+  background-color:white;
+  display: inline-block;
+}
+.para {
+  font-size:20px;
+  display: inline-block;
+}
+.im {
+  display: inline-block;
+}
